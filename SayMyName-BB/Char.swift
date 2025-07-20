@@ -16,5 +16,4 @@ struct Char: Decodable {
     let status: String
     let portrayedBy: String
     let death: Death?
-    
 }
