@@ -12,5 +12,5 @@ struct Quote: Decodable {
     let quote: String
     let character: String
     let production: String
-    let episode: String
+    let episode: Int
 }
